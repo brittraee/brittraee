@@ -12,7 +12,7 @@
   `Research Methods` `Experimental Design` `Qualtrics` 
   `Home Assistant` `IoT` `Network Sysadmin` `Automations`
   `Prompt Engineering` `AI Architecture` `Obsidian / PKM` 
-  `Technical Writing` `CSS` `HTML` 
+  `Technical Documentation` `Debugging` `CSS` `HTML` 
   
 
 <!---
