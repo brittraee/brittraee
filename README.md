@@ -2,7 +2,7 @@ Hi, I'm @brittraee
 
 - 🎓 Psychology, UW-Stevens Point — statistics, research methods and experiment design
 - 💼 Customer-facing technical support (FAANG) 10+ years- Current
-- 🔧 Building: home assistant, sports data analysis, PKM systems, AI workflows/orchestrations  ---scripts, automations -- python, yaml
+- 🔧 Building: home assistant, sports data analysis, PKM systems, AI workflows/orchestrations  ---scripts, automations, python, yaml
 - 🧠 cognition / nuerodivergence / parenting / AI
   
 ## Skills & Interests
